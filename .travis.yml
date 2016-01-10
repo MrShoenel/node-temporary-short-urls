@@ -8,7 +8,7 @@ before_script:
   - npm install -g mocha
   - npm install
 
-script: mocha
+script: mocha ./test/storeAndGetLinks.js
 
 node_js:
   - "5.3"
