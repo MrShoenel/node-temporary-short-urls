@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"charset": "utf-8",
+		"sourceMap": true,
+		"target": "es6",
+		"noImplicitAny": true,
+		"removeComments": true,
+		"module": "amd"
+	}
+}

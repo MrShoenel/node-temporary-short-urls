@@ -1,0 +1,11 @@
+.tscache
+.vscode
+node_modules
+
+resource/**/*.js
+resource/**/*.map
+resource/**/*.d.ts
+
+test/**/*.js
+test/**/*.map
+test/**/*.d.ts
