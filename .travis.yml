@@ -1,6 +1,6 @@
 language: node_js
 
-before_script:
+before_install:
   - npm install -g grunt
   - npm install -g grunt-cli
   - npm install -g grunt-ts
@@ -8,7 +8,9 @@ before_script:
   - npm install -g mocha
   - npm install
 
-script: mocha ./test/storeAndGetLinks.js
+before_script: grunt default
+
+script: mocha
 
 node_js:
   - "5.3"
