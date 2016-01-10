@@ -6,6 +6,7 @@
   "author": "Sebastian Hönel <development@hoenel.net>",
   "license": "MIT",
 	"scripts": {
+		"postinstall": "tsd install",
 		"test": "mocha"
 	},
   "devDependencies": {

@@ -1,0 +1,14 @@
+language: node_js
+
+before_script:
+  - npm install -g grunt
+  - npm install -g grunt-cli
+  - npm install -g grunt-ts
+  - npm install -g matchdep
+  - npm install -g mocha
+  - npm install
+
+script: test
+
+node_js:
+  - "5.3"
