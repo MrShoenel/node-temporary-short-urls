@@ -1,0 +1,6 @@
+{
+	"listenPort": 8282,
+	"hoursToStore": 48,
+	"outputDomain": "https://example.net/",
+	"fallbackUrl": "https://example.net/fallback.html"
+}
