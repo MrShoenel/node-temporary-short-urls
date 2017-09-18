@@ -18,7 +18,7 @@
       "commit": "3191f6e0088eee07c4d8fd24e4d27a40a60d9eb9"
     },
     "mocha/mocha.d.ts": {
-      "commit": "3191f6e0088eee07c4d8fd24e4d27a40a60d9eb9"
+      "commit": "70bf7e2bfeb0d5b1b651ef3219bcc65c8eec117e"
     },
     "chai/chai.d.ts": {
       "commit": "3191f6e0088eee07c4d8fd24e4d27a40a60d9eb9"
@@ -28,6 +28,9 @@
     },
     "body-parser/body-parser.d.ts": {
       "commit": "3191f6e0088eee07c4d8fd24e4d27a40a60d9eb9"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "70bf7e2bfeb0d5b1b651ef3219bcc65c8eec117e"
     }
   }
 }
